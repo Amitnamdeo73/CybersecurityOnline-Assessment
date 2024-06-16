@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/georgesimos/cinema-plus.git"
+    "url": "git+https://github.com/Amitnamdeo73/CybersecurityOnline-Assessment"
   },
   "keywords": [],
-  "author": "George Simos <georgesimos.com>",
+  "author": "Amit",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/georgesimos/cinema-plus/issues"
+    "url": "https://github.com/Amitnamdeo73/CybersecurityOnline-Assessment"
   },
-  "homepage": "https://github.com/georgesimos/cinema-plus#readme",
+  "homepage": "https://github.com/Amitnamdeo73/CybersecurityOnline-Assessment",
   "devDependencies": {
     "eslint": "^6.1.0",
     "eslint-config-airbnb": "^18.0.1",
